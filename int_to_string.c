@@ -1,4 +1,4 @@
-ginclude <stdlib.h>
+#include <stdlib.h>
 
 char *get_int(int num);
 unsigned int _abs(int);
